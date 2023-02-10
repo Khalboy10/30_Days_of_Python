@@ -37,7 +37,7 @@ print(type('Nigeria'))
 # Exercises: Level 3
 # Exercise 1
 
-print(3)                            # integer
+print(6)                            # integer
 print(4.7)                          # floor
 print(4 - 4j)                        # complex
 print('Arewa data Science')          # string
