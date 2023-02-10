@@ -20,7 +20,7 @@ print(3 // 4) # floor division
 print('Auwal Auwal Sulaiman')
 print('Mebarewa')
 print('Nigeria')
-print('i am enjoying 30 days of python')
+print('I am enjoying 30 days of python')
 
 
 # Exercise 4
