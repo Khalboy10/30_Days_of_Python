@@ -3,6 +3,7 @@ Arewa DataScience 30 days of python
 
 # Day	Topics
 01	Introduction
+
 02	Variables, Built-in Functions
 03	Operators
 04	Strings
